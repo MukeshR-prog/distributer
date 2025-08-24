@@ -1,0 +1,6 @@
+First Name,Phone,Notes,Column 4,Column 5,Column 6
+Alice,555-1234,Met at conference,TRUE,[URL],Category A
+Bob,555-5678,Follow up on project,FALSE,[URL],Category B
+Carol,555-9012,Sent proposal,TRUE,[URL],Category A
+David,555-3456,Discussed new ideas,TRUE,[URL],Category C
+Eve,555-7890,Reminder for meeting,FALSE,[URL],Category B
